@@ -1,0 +1,12 @@
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNetModel\bin\Debug\SkyNetModel.dll
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNetModel\bin\Debug\SkyNetModel.pdb
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.csproj.AssemblyReference.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.csproj.CoreCompileInputs.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.dll
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.pdb
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNetModel\bin\Debug\SkyNetModel.dll
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNetModel\bin\Debug\SkyNetModel.pdb
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.dll
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNetModel\obj\Debug\SkyNetModel.pdb

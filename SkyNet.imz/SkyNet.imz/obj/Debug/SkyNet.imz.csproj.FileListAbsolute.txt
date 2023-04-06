@@ -1,0 +1,22 @@
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe.config
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.pdb
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.dll
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.pdb
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.AssemblyReference.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.SuggestedBindingRedirects.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CoreCompileInputs.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CopyComplete
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.exe
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.pdb
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe.config
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.pdb
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.dll
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.pdb
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CopyComplete
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.exe
+C:\Users\Agustin\Desktop\skinet shutdown\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.pdb
